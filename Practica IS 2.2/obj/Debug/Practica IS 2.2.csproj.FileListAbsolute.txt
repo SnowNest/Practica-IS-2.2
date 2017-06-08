@@ -1,0 +1,6 @@
+C:\Users\nesto\OneDrive\Documentos\Visual Studio 2017\Projects\Practica IS 2.2\Practica IS 2.2\bin\Debug\Practica IS 2.2.exe.config
+C:\Users\nesto\OneDrive\Documentos\Visual Studio 2017\Projects\Practica IS 2.2\Practica IS 2.2\bin\Debug\Practica IS 2.2.exe
+C:\Users\nesto\OneDrive\Documentos\Visual Studio 2017\Projects\Practica IS 2.2\Practica IS 2.2\bin\Debug\Practica IS 2.2.pdb
+C:\Users\nesto\OneDrive\Documentos\Visual Studio 2017\Projects\Practica IS 2.2\Practica IS 2.2\obj\Debug\Practica IS 2.2.exe
+C:\Users\nesto\OneDrive\Documentos\Visual Studio 2017\Projects\Practica IS 2.2\Practica IS 2.2\obj\Debug\Practica IS 2.2.pdb
+C:\Users\nesto\OneDrive\Documentos\Visual Studio 2017\Projects\Practica IS 2.2\Practica IS 2.2\obj\Debug\Practica IS 2.2.csprojResolveAssemblyReference.cache
